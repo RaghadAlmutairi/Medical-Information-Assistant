@@ -2,7 +2,7 @@
 
 A Streamlit app powered by a **ReAct agent** that answers general medical questions using tools, with safety guardrails built into every response. It provides general health information only, never diagnosis or treatment advice.
 
-![App screenshot](MedAgent.pdf)
+📸 [View app screenshots (PDF)](MedAgent.pdf)
 
 ## What it does
 The agent reasons step by step, decides which tool to call, observes the result, and then writes a final answer.
